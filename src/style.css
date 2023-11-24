@@ -14,9 +14,6 @@ body {
 
 }
 
-
-
-
 #tooltip {
     background: black;
     border: 1px solid black;
@@ -25,6 +22,6 @@ body {
     position: absolute;
     display: flex;
     color: white;
-    font-size: 13px;
+    font-size: 11px;
 
 }
